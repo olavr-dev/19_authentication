@@ -78,6 +78,7 @@ router.post('/login', async function (req, res) {
 });
 
 router.get('/admin', function (req, res) {
+  // Check the users "ticket"
   res.render('admin');
 });
 
