@@ -181,4 +181,8 @@ images/*
 .history
 .ionide
 
+# Prettier Config
+.prettierrc.json
+.prettierrc.yaml
+
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,node,git
